@@ -49,9 +49,8 @@ PUT api/users/{id}
 
 # Request sample
 # {
-#   "isbn":"4545454",
-#   "title":"Updated Title",
-#   "author":{"firstname":"Harry",  "lastname":"White"}
+#   "name":"Name",
+#   "author":{"example@gmail.com}
 # }
 
 ```
